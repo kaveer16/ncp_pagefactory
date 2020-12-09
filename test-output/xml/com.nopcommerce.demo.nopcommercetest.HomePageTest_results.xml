@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePageTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.960">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToLoginPage" time="2.171" classname="com.nopcommerce.demo.nopcommercetest.HomePageTest" />
+                <testcase name="verifyUserShouldRegisterSuccessfully" time="0.789" classname="com.nopcommerce.demo.nopcommercetest.HomePageTest" />
+      
+</testsuite>
